@@ -21,6 +21,10 @@
         {% endif %}
 
         <p>{{ site.profile | default: site.github.project_tagline }}</p>
+        
+        {% if site.address %}
+        <p>{{site.address}}</p>
+        {% endif %}
 
         {% if site.research_gate %}
         <p class="view"><a href="{{site.research_gate}}">View My ResearchGate Page</a></p>
