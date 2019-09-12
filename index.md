@@ -1,17 +1,6 @@
-# Cheng Lu's Homepage
+## Publications
 
-I am now working as a research associate in Center for Computational Imaging & Personalized Diagnostics, Case Western Reserve University, US. My research interest includes biomedical image analysis, computer vision and pattern recognition. My current project is on the digital histological image analysis.
-
-From 2008 to 2013, I was doing my doctoral studies in the University of Alberta, under the supervision of [Dr. Mrinal K. Mandal](http://www.ece.ualberta.ca/~mandal) at the [Dept of Electrical and Computer Engineering](http://www.ece.engineering.ualberta.ca/).
-
-Address: Department of Biomedical Engineering, Case Western Reserve University, 2071 Martin Luther King Drive, OH, 44106-7207, Wickenden 525 
-Email: cheng.lu2@case.edu
-
-ResearchGate Page: https://www.researchgate.net/profile/Cheng_Lu5?ev=hdr_xprf
-
-Publications
-
-Peer-review Journals
+### Peer-review Journals
 
 14. Hongming Xu, Cheng Lu, and Mrinal Mandal, ¡°Automatic Nuclei Detection based on Generalized Laplacian of Gaussian Filters¡±, IEEE Journal of Biomedical and Health Informatics. In Press. [PDF]
 
@@ -41,7 +30,7 @@ Peer-review Journals
 
 1.   Cheng Lu and Mrinal Mandal. ''Improved Demons Technique with Orthogonal Gradient Information for Medical Image Registration'', IEICE Transaction on Information and System, Vol.E93-D, No. 12. December 2010. [PDF]
 
-Conferences
+## Conferences
 
 6. Cheng Lu, Mrinal Mandal. ''Efficient Epidermis Segmentation for Whole Slide Skin Histopathological Images'', In Proc: The 36th Annual International Conference of the Engineering in Medicine and Biology Society. August 2014. [PDF]
 
