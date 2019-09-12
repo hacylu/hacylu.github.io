@@ -23,7 +23,7 @@
         <p>{{ site.profile | default: site.github.project_tagline }}</p>
         
         {% if site.address %}
-        <p>{{site.address}}</p>
+        <p><small>Address: {{site.address}}</small></p>
         {% endif %}
 
         {% if site.research_gate %}
